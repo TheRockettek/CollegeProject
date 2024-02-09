@@ -1,4 +1,4 @@
-import { doLogin, doRequest, getRequest } from './routes'
+import { doRequest, getRequest } from './routes'
 
 export default {
   getUser(callback, errorCallback) {
